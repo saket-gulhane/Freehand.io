@@ -73,7 +73,7 @@
 - We are using YOLO model and Transfer Learning to train it to our custom Images.
 - We have trained our ML Model to detect these components.
 - Using this Model we are detecting these Components in Image .
-- And with these Deatils we are then generating Code Using Node.js .
+- And with these details we are then generating Code Using Node.js .
 
 ## Contributing
 - We're are open to `enhancements` & `bug-fixes`.
@@ -83,5 +83,5 @@
   - Atharva Udapure - [atharvau](https://github.com/atharvau)
   - Nikhil Sahu - [nikhildsahu](https://github.com/nikhildsahu)
   - Gaurav Sharma - [gauravgs](https://github.com/gauravgs)
-- Saket Gulhane - [th-10](https://github.com/th-10)
+- Saket Gulhane - [saket-gulhane](https://github.com/saket-gulhane)
 - Saksham Madan - [sakshammadan](https://github.com/sakshammadan)
